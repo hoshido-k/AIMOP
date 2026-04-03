@@ -1,0 +1,17 @@
+{
+  "id": "shotokishida/aimop-baseline",
+  "title": "Aimop Baseline",
+  "code_file": "aimop-solver.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [
+    "ai-mathematical-olympiad-progress-prize-3"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}

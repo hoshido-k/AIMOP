@@ -1,0 +1,40 @@
+# === Credentials ===
+.env
+.kaggle/
+kaggle.json
+
+# === Data ===
+data/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.feather
+*.arrow
+*.zip
+*.tar.gz
+*.7z
+
+# === Model files ===
+*.joblib
+*.bin
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# === Python ===
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.python-version
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Misc ===
+.DS_Store
