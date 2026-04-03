@@ -31,5 +31,5 @@ jobs:
         env:
           KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
         run: |
-          DIR=${{ inputs.notebook_dir || 'src' }}
+          DIR=${{ inputs.notebook_dir || 'main' }}
           kaggle kernels push -p "$DIR"
