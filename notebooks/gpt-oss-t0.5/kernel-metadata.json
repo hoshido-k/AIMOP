@@ -1,16 +1,14 @@
 {
-  "id": "shotokishida/aimop-solve",
-  "title": "aimop-solve",
-  "code_file": "aimop-solver.ipynb",
+  "id": "shotokishida/aimop-solve-44",
+  "title": "aimop-solve-44",
+  "code_file": "gpt-oss-120b-t0.5-structured-entropy.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
   "enable_gpu": "true",
   "enable_tpu": "false",
   "enable_internet": "false",
-  "dataset_sources": [
-    "amanatar/50problems"
-  ],
+  "dataset_sources": [],
   "competition_sources": [
     "ai-mathematical-olympiad-progress-prize-3"
   ],

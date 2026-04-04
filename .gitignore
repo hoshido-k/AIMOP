@@ -38,3 +38,6 @@ dist/
 
 # === Misc ===
 .DS_Store
+
+# === Local memos / research notes ===
+memo/
