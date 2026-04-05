@@ -1,6 +1,6 @@
 {
-  "id": "shotokishida/aimop-solve-44",
-  "title": "aimop-solve-44",
+  "id": "shotokishida/gpt-oss-120b-t0-5-structured-entropy",
+  "title": "gpt-oss-120b-t0.5-structured-entropy",
   "code_file": "gpt-oss-120b-t0.5-structured-entropy.ipynb",
   "language": "python",
   "kernel_type": "notebook",
