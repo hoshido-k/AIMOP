@@ -1,0 +1,24 @@
+{
+  "id": "shotokishida/deepseek-r1-32b",
+  "title": "deepseek-r1-32b",
+  "code_file": "deepseek-r1-32b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "amanatar/50problems"
+  ],
+  "competition_sources": [
+    "ai-mathematical-olympiad-progress-prize-3"
+  ],
+  "kernel_sources": [
+    "andreasbis/aimo-3-utils"
+  ],
+  "model_sources": [
+    "deepseek-ai/deepseek-r1-distill-qwen-32b/transformers/default/1"
+  ],
+  "machine_shape": "NvidiaH100"
+}
